@@ -11,8 +11,7 @@ There will be a notebook for each one of the Machine Learning Pipeline steps:
 
 ===================================================================================================
 
-
-## Predicting Repeat Customers in the Travel Business
+## Business use case to be addressed: Predicting Repeat Customers in the Travel Business
 
 The aim of the project is to build a machine learning model to predict which customers of a travel agency are going to be repeat customers. 
 
@@ -23,3 +22,7 @@ The travel agency is giving out too many discounted packages without ROI - they 
 ### What is the objective of the machine learning model?
 
 We aim to identify customers that will repeat using data describing each customer's socioeconomic status and interests. 
+
+===================================================================================================
+
+The dataset used in this project as well as a data dictionary are provided.
